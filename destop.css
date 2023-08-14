@@ -1,0 +1,11 @@
+/* Responsiveness */
+@media (min-width: 1024px) {
+    .titulo_desktop {
+        display: block;
+    }
+    .header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
