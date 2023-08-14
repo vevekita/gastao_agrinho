@@ -1,7 +1,7 @@
 @import url(reset.css);
 @import url(menu.css);
 :root{
-    --fundo-escuro: rgb(4, 0, 255);
+    --fundo-escuro: rgb(8, 165, 47);
     --fundo-claro: rgb(4, 0, 255);
     --fonte-clara: rgb(255, 255, 255);
     --fonte-escura: rgb(255, 255, 255);
@@ -146,19 +146,19 @@ div.item {
 
 div.item:nth-of-type(1) {
   --offset: 1;
-  background-color: #90f1ef;
+  background-color: #f38dd9;
 }
 div.item:nth-of-type(2) {
   --offset: 2;
-  background-color: #ff70a6;
+  background-color: #7495f0;
 }
 div.item:nth-of-type(3) {
   --offset: 3;
-  background-color: #ff9770;
+  background-color: rgb(45, 165, 91) ;
 }
 div.item:nth-of-type(4) {
   --offset: 4;
-  background-color: #ffd670;
+  background-color: #e9532d;
 }
 div.item:nth-of-type(5) {
   --offset: 5;
